@@ -1,0 +1,10 @@
+
+
+NAME: Sofia
+AGE: 25
+CITY: Lytsk
+
+NAME: Lera
+AGE: 28
+CITY: London
+

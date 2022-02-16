@@ -1,0 +1,8 @@
+dataNAME: Andrii
+AGE: 22
+CITY: Lviv
+
+NAME: Viktotia
+AGE: 26
+CITY: Kiev
+
